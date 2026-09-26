@@ -24,8 +24,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
