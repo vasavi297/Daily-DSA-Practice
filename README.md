@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0692-top-k-frequent-words](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0692-top-k-frequent-words) |
 ## Two Pointers
@@ -17,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0692-top-k-frequent-words](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0692-top-k-frequent-words) |
 ## Hash Table
 |  |
