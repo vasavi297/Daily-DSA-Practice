@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0165-compare-version-numbers](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0165-compare-version-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [0020-valid-parentheses](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0067-add-binary) |
+| [0165-compare-version-numbers](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0165-compare-version-numbers) |
 | [0692-top-k-frequent-words](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0856-score-of-parentheses](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
