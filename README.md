@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [0002-add-two-numbers](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0067-add-binary) |
 | [0507-perfect-number](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0507-perfect-number) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
