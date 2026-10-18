@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0303-range-sum-query-immutable](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -164,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0022-generate-parentheses) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
