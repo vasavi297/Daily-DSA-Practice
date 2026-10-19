@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [0496-next-greater-element-i](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [0088-merge-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0692-top-k-frequent-words](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
