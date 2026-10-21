@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [0015-3sum](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0088-merge-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0303-range-sum-query-immutable](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0303-range-sum-query-immutable) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | ------- |
 | [0001-two-sum](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0496-next-greater-element-i](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
