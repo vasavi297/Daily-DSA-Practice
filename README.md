@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [0088-merge-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0303-range-sum-query-immutable](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0455-assign-cookies](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0165-compare-version-numbers) |
+| [0455-assign-cookies](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [0015-3sum](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0455-assign-cookies](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -208,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1254-number-of-closed-islands) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
