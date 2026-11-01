@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [0088-merge-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0303-range-sum-query-immutable](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0692-top-k-frequent-words) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | ------- |
 | [0002-add-two-numbers](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0067-add-binary) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0507-perfect-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2409-count-days-spent-together](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2409-count-days-spent-together) |
