@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2409-count-days-spent-together](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2409-count-days-spent-together) |
+| [3174-clear-digits](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3174-clear-digits) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [1021-remove-outermost-parentheses](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3174-clear-digits](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0067-add-binary) |
+| [3174-clear-digits](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
