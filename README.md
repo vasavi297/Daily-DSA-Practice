@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [1710-maximum-units-on-a-truck](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1710-maximum-units-on-a-truck) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [1710-maximum-units-on-a-truck](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1710-maximum-units-on-a-truck) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [0290-word-pattern](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0692-top-k-frequent-words) |
+| [2747-count-zero-request-servers](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [0003-longest-substring-without-repeating-characters](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1652-defuse-the-bomb](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2747-count-zero-request-servers](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2747-count-zero-request-servers) |
 ## Stack
 |  |
 | ------- |
