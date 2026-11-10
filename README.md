@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [2747-count-zero-request-servers](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3693-climbing-stairs-ii](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | ------- |
 | [0022-generate-parentheses](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3693-climbing-stairs-ii](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3693-climbing-stairs-ii) |
 ## Trie
 |  |
 | ------- |
