@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [0977-squares-of-a-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1254-number-of-closed-islands](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1254-number-of-closed-islands) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1652-defuse-the-bomb](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1652-defuse-the-bomb) |
 | [1710-maximum-units-on-a-truck](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1710-maximum-units-on-a-truck) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0507-perfect-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | ------- |
 | [0022-generate-parentheses](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3693-climbing-stairs-ii](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3693-climbing-stairs-ii) |
 ## Trie
 |  |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Binary Search
 |  |
 | ------- |
