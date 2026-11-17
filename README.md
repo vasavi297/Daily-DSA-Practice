@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [0165-compare-version-numbers](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0165-compare-version-numbers) |
 | [0455-assign-cookies](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3174-clear-digits](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3174-clear-digits) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [0022-generate-parentheses](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3693-climbing-stairs-ii) |
 ## Trie
 |  |
