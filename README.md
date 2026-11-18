@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3174-clear-digits](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3174-clear-digits) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3863-minimum-operations-to-sort-a-string) |
