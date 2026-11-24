@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [2567-minimum-score-by-changing-two-elements](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3693-climbing-stairs-ii](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [1652-defuse-the-bomb](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2747-count-zero-request-servers](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2747-count-zero-request-servers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Stack
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Backtracking
 |  |
 | ------- |
@@ -298,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | ------- |
 | [0175-combine-two-tables](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0176-second-highest-salary) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
