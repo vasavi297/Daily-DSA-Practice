@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3934-smallest-unique-subarray](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [0692-top-k-frequent-words](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [2747-count-zero-request-servers](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3934-smallest-unique-subarray](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3934-smallest-unique-subarray](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -306,4 +309,16 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
