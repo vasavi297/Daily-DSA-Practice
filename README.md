@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [0016-3sum-closest](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1710-maximum-units-on-a-truck) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1882-process-tasks-using-servers) |
