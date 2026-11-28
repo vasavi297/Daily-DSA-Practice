@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3934-smallest-unique-subarray](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [2747-count-zero-request-servers](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [0692-top-k-frequent-words](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/1882-process-tasks-using-servers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bucket Sort
 |  |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview - Created using [
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vasavi297/Daily-DSA-Practice/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
